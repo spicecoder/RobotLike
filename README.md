@@ -9,7 +9,7 @@ The project is a maven built , and thus can be exceuted from the uber jar that h
  >java -jar toyrobot-jar-with-dependencies.jar
 
 The maven build also runs the tests that are included, which can also be run in isolation by running  ' mvn test ' command from the project root.
-The who project can be rebuilt by 'mvn instal' command.
+The whole project can be rebuilt by 'mvn instal' command.
 
  Following is a sample of the ToyRobot in action from the command line:
  .....................................
