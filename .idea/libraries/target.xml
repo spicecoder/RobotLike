@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="target">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/maven-unit-test.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/maven-unit-test-jar-with-dependencies.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/toyrobot-jar-with-dependencies.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/toyrobot.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/toyrobot-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
